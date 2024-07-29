@@ -1,0 +1,14 @@
+.macbook-air-5-child {
+  position: absolute;
+  top: 23px;
+  left: 49px;
+  width: 1213px;
+  height: 714.2px;
+}
+.macbook-air-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-default-default);
+  height: 832px;
+  overflow: hidden;
+}

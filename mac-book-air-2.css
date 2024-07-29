@@ -1,0 +1,461 @@
+.complaint-registration {
+  position: absolute;
+  top: 231px;
+  left: 500px;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 376px;
+  left: 19px;
+  border-radius: var(--br-11xl);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 769px;
+  height: 30px;
+}
+.group-item {
+  top: 192px;
+}
+.name-of-the {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  display: inline-block;
+  width: 421px;
+  height: 18px;
+}
+.group-inner {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 769px;
+  height: 30px;
+}
+.eg-tamil-nadu,
+.enter-your-10,
+.enter-your-name {
+  position: absolute;
+  top: 46px;
+  left: 18px;
+  display: inline-block;
+  width: 421px;
+  height: 18px;
+}
+.eg-tamil-nadu,
+.enter-your-10 {
+  top: 138px;
+}
+.eg-tamil-nadu {
+  top: 322px;
+}
+.name-of-the-victim-as-per-in-parent {
+  position: absolute;
+  top: 60px;
+  left: 19px;
+  width: 769px;
+  height: 340px;
+  font-size: var(--font-size-xs);
+  color: var(--text-default-secondary);
+}
+.place,
+.rectangle-div {
+  position: absolute;
+  left: 3px;
+}
+.place {
+  top: 0;
+  display: inline-block;
+  width: 421px;
+  height: 18px;
+}
+.rectangle-div {
+  top: 42px;
+  border-radius: var(--br-11xl);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 769px;
+  height: 30px;
+}
+.pincodepostal-code {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 421px;
+  height: 18px;
+}
+.group-child1,
+.rectangle-group {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  width: 772px;
+  height: 72px;
+}
+.group-child1 {
+  top: 40px;
+  left: 3px;
+  border-radius: var(--br-11xl);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 769px;
+  height: 30px;
+}
+.place-parent {
+  position: absolute;
+  top: 520px;
+  left: 16px;
+  width: 772px;
+  height: 162px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 428px;
+  left: 19px;
+  width: 769px;
+  height: 70px;
+}
+.indian,
+.mobile-number,
+.nationality,
+.non-resident-indian,
+.state {
+  position: absolute;
+  top: 336px;
+  left: 19px;
+  display: inline-block;
+  width: 421px;
+  height: 18px;
+}
+.indian,
+.mobile-number,
+.nationality,
+.non-resident-indian {
+  top: 243px;
+  left: 16px;
+}
+.indian,
+.mobile-number,
+.non-resident-indian {
+  top: 282px;
+  left: 52px;
+}
+.mobile-number,
+.non-resident-indian {
+  left: 179px;
+}
+.mobile-number {
+  top: 154px;
+  left: 19px;
+}
+.basic-details {
+  font-weight: 800;
+}
+.all-details-are {
+  font-size: var(--single-line-body-base-size);
+}
+.basic-details-all-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+}
+.group-child3,
+.rectangle-parent {
+  position: absolute;
+  top: 329px;
+  left: 123px;
+  width: 788px;
+  height: 682px;
+}
+.group-child3 {
+  top: 41px;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 769px;
+  height: 30px;
+}
+.aadhar-number-parent,
+.mobile-model {
+  position: absolute;
+  top: 60px;
+  left: 19px;
+  width: 769px;
+  height: 71px;
+}
+.mobile-model {
+  top: 0;
+  left: 0;
+  text-align: left;
+  display: inline-block;
+  width: 421px;
+  height: 18px;
+}
+.hereby-i-am,
+.hereby-i-authorizing {
+  position: absolute;
+  left: 31px;
+  display: inline-block;
+  width: 738px;
+}
+.hereby-i-authorizing {
+  top: 100px;
+  white-space: pre-wrap;
+  height: 18px;
+}
+.hereby-i-am {
+  top: 174px;
+  height: 86px;
+}
+.mobile-model-parent {
+  position: absolute;
+  top: 428px;
+  left: 19px;
+  width: 769px;
+  height: 260px;
+  text-align: justify;
+}
+.imei-number-slot,
+.imei-number-slot1 {
+  position: absolute;
+  top: 336px;
+  left: 19px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 421px;
+  height: 18px;
+}
+.imei-number-slot1 {
+  top: 243px;
+}
+.group-child6 {
+  position: absolute;
+  top: 284px;
+  left: 19px;
+  border-radius: var(--br-11xl);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 769px;
+  height: 30px;
+}
+.mobile-number-which {
+  position: absolute;
+  top: 152px;
+  left: 19px;
+  display: inline-block;
+  width: 557px;
+  height: 18px;
+}
+.confidential-information {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+}
+.bxcheckbox-icon,
+.group-wrapper,
+.macbook-air-2-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 788px;
+  height: 688px;
+}
+.bxcheckbox-icon,
+.macbook-air-2-inner {
+  top: 1077px;
+  left: 123px;
+}
+.bxcheckbox-icon {
+  top: 1604px;
+  left: 142px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.bxcheckbox,
+.bxcheckbox-icon1,
+.bxcheckbox-icon2,
+.vector-icon {
+  position: absolute;
+  top: 610px;
+  left: 148px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.bxcheckbox,
+.bxcheckbox-icon2,
+.vector-icon {
+  left: 268px;
+}
+.bxcheckbox,
+.vector-icon {
+  height: 1.22%;
+  width: 1.88%;
+  top: 84.22%;
+  right: 74.69%;
+  bottom: 14.55%;
+  left: 23.44%;
+}
+.vector-icon {
+  height: 0.71%;
+  width: 1.09%;
+  top: 85.75%;
+  right: 87.42%;
+  bottom: 13.54%;
+  left: 11.48%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-seagreen);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 205px;
+  height: 43px;
+  cursor: pointer;
+}
+.submit {
+  position: absolute;
+  top: 11px;
+  left: 68px;
+  font-weight: 800;
+}
+.group-div {
+  position: absolute;
+  top: 1852px;
+  left: 510px;
+  width: 205px;
+  height: 43px;
+  text-align: center;
+  color: var(--background-default-default);
+}
+.group-child9 {
+  left: 642px;
+  background-color: var(--color-seagreen);
+  width: 280px;
+}
+.group-child10,
+.group-child11,
+.group-child12,
+.group-child13,
+.group-child9 {
+  position: absolute;
+  top: 113px;
+  border-radius: var(--br-31xl);
+  height: 29px;
+}
+.group-child10 {
+  left: 933px;
+  background-color: var(--color-seagreen);
+  width: 280px;
+  cursor: pointer;
+}
+.group-child11,
+.group-child12,
+.group-child13 {
+  left: 8px;
+  background-color: var(--border-default-default);
+  width: 306px;
+}
+.group-child12,
+.group-child13 {
+  background-color: var(--color-seagreen);
+  cursor: pointer;
+}
+.group-child13 {
+  left: 325px;
+}
+.cyber-report-portal2 {
+  position: absolute;
+  top: 21px;
+  left: 55px;
+  font-size: var(--font-size-21xl);
+  font-weight: 300;
+  color: var(--color-seagreen);
+  cursor: pointer;
+}
+.emergency-help,
+.register-a-complaint {
+  position: absolute;
+  top: 115px;
+  left: 62px;
+}
+.emergency-help {
+  left: 704px;
+}
+.about-scheme,
+.track-complaint-status {
+  position: absolute;
+  top: 115px;
+  left: 1003px;
+}
+.track-complaint-status {
+  left: 370px;
+}
+.oip-1-11,
+.oip-1-icon1,
+.oip-2-11 {
+  position: absolute;
+  top: 0;
+  left: 1037px;
+  border-radius: var(--br-6xl);
+  width: 147px;
+  height: 76px;
+  object-fit: cover;
+}
+.oip-1-11,
+.oip-1-icon1 {
+  top: 1px;
+  left: 885px;
+  width: 96px;
+  height: 89px;
+}
+.oip-1-icon1 {
+  top: 15px;
+  left: 0;
+  width: 43px;
+  height: 61px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 23px;
+  left: 49px;
+  width: 1213px;
+  height: 142px;
+  font-size: var(--font-size-xl);
+  color: var(--background-default-default);
+}
+.macbook-air-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-default-default);
+  height: 1965px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--single-line-body-base);
+}

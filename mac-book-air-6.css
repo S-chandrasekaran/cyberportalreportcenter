@@ -1,0 +1,180 @@
+.complaint-registration1 {
+  position: absolute;
+  top: 0;
+  left: 295px;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+}
+.group-child27 {
+  position: absolute;
+  top: 75px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 890px;
+  height: 391px;
+}
+.div {
+  position: absolute;
+  top: 209px;
+  left: 262px;
+}
+.complaint-number1,
+.complaint-registered-successfu {
+  position: absolute;
+  top: 153px;
+  left: 62px;
+  font-weight: 600;
+}
+.complaint-registered-successfu {
+  top: 265px;
+  left: 59px;
+}
+.date1,
+.div1 {
+  position: absolute;
+  top: 153px;
+  left: 262px;
+}
+.date1 {
+  top: 209px;
+  left: 62px;
+  font-weight: 600;
+}
+.complaint-registration-parent {
+  position: absolute;
+  top: 245px;
+  left: 232px;
+  width: 890px;
+  height: 466px;
+  color: var(--color-black);
+}
+.macbook-air-6-child {
+  position: absolute;
+  top: 634px;
+  left: 583px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-seagreen);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 205px;
+  height: 43px;
+}
+.back {
+  position: absolute;
+  top: 645px;
+  left: 665px;
+}
+.group-child28 {
+  left: 642px;
+  background-color: var(--color-seagreen);
+  width: 280px;
+}
+.group-child28,
+.group-child29,
+.group-child30,
+.group-child31,
+.group-child32 {
+  position: absolute;
+  top: 113px;
+  border-radius: var(--br-31xl);
+  height: 29px;
+}
+.group-child29 {
+  left: 933px;
+  background-color: var(--color-seagreen);
+  width: 280px;
+  cursor: pointer;
+}
+.group-child30,
+.group-child31,
+.group-child32 {
+  width: 306px;
+}
+.group-child30 {
+  left: 8px;
+  background-color: var(--border-default-default);
+}
+.group-child31,
+.group-child32 {
+  background-color: var(--color-seagreen);
+}
+.group-child31 {
+  left: 8px;
+  cursor: pointer;
+}
+.group-child32 {
+  left: 325px;
+}
+.cyber-report-portal5 {
+  position: absolute;
+  top: 21px;
+  left: 55px;
+  font-size: var(--font-size-21xl);
+  font-weight: 300;
+  color: var(--color-seagreen);
+  cursor: pointer;
+}
+.emergency-help3,
+.register-a-complaint3 {
+  position: absolute;
+  top: 115px;
+  left: 62px;
+}
+.emergency-help3 {
+  left: 704px;
+}
+.about-scheme3,
+.track-complaint-status4 {
+  position: absolute;
+  top: 115px;
+  left: 1003px;
+}
+.track-complaint-status4 {
+  left: 370px;
+}
+.oip-1-14,
+.oip-1-icon4,
+.oip-2-14 {
+  position: absolute;
+  top: 0;
+  left: 1037px;
+  border-radius: var(--br-6xl);
+  width: 147px;
+  height: 76px;
+  object-fit: cover;
+}
+.oip-1-14,
+.oip-1-icon4 {
+  top: 1px;
+  left: 885px;
+  width: 96px;
+  height: 89px;
+}
+.oip-1-icon4 {
+  top: 15px;
+  left: 0;
+  width: 43px;
+  height: 61px;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 23px;
+  left: 49px;
+  width: 1213px;
+  height: 142px;
+  font-size: var(--font-size-xl);
+}
+.macbook-air-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-default-default);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--background-default-default);
+  font-family: var(--single-line-body-base);
+}

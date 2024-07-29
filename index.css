@@ -1,0 +1,240 @@
+.macbook-air-1-child {
+  position: absolute;
+  top: 39px;
+  left: 712px;
+  border-radius: var(--br-6xl);
+  background-color: rgba(79, 241, 134, 0.42);
+  width: 542px;
+  height: 758px;
+}
+.cyber {
+  margin: 0;
+}
+.report-portal-centre {
+  margin: 0;
+  font-size: 48px;
+}
+.cyber-report-portal-container {
+  position: absolute;
+  top: 44px;
+  left: 48px;
+  color: var(--color-seagreen);
+  font-size: 96px;
+}
+.government-of-india {
+  position: absolute;
+  top: 257px;
+  left: 875px;
+  font-size: 22px;
+}
+.oip-2-1 {
+  position: absolute;
+  top: 372px;
+  left: 983px;
+  border-radius: var(--br-6xl);
+  width: 262px;
+  height: 137px;
+  object-fit: cover;
+}
+.cyber-report-portal {
+  position: absolute;
+  top: calc(50% - 207px);
+  left: 802px;
+  font-size: 28px;
+  font-weight: 500;
+}
+.cyber-report-portal-container1 {
+  position: absolute;
+  top: 587px;
+  left: 754px;
+  font-size: var(--font-size-xl);
+  text-align: justify;
+}
+.description,
+.label {
+  position: relative;
+  line-height: 140%;
+}
+.label {
+  align-self: stretch;
+}
+.description {
+  width: 240px;
+  color: var(--text-default-secondary);
+  display: none;
+}
+.value {
+  flex: 1;
+  position: relative;
+  line-height: 100%;
+}
+.input {
+  align-self: stretch;
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--space-300) var(--space-400);
+  min-width: 240px;
+  color: var(--text-default-tertiary);
+}
+.error {
+  width: 37px;
+  position: relative;
+  line-height: 140%;
+  display: none;
+}
+.input-field {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--space-200);
+}
+.check-icon,
+.checkbox {
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.check-icon {
+  position: relative;
+}
+.checkbox {
+  border-radius: var(--radius-100);
+  background-color: var(--border-brand-default);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.label2 {
+  flex: 1;
+  position: relative;
+  line-height: 140%;
+}
+.checkbox-and-label {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--space-300);
+}
+.checkbox-and-label,
+.checkbox-field,
+.description-row {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.description-row {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--space-300);
+  color: var(--text-default-secondary);
+}
+.checkbox-field {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.star-icon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button1 {
+  position: relative;
+  line-height: 100%;
+}
+.button,
+.button2 {
+  border-radius: var(--radius-200);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-300);
+  gap: var(--space-200);
+}
+.button {
+  width: 112px;
+  display: none;
+  box-sizing: border-box;
+}
+.button2 {
+  flex: 1;
+  background-color: var(--color-seagreen);
+  border: 1px solid var(--border-brand-default);
+  display: flex;
+  cursor: pointer;
+  color: var(--text-brand-on-brand);
+}
+.button-group,
+.form-register {
+  display: flex;
+  justify-content: flex-start;
+}
+.button-group {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--space-400);
+  color: var(--text-neutral-default);
+}
+.form-register {
+  position: absolute;
+  top: 312px;
+  left: 48px;
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  box-sizing: border-box;
+  width: 573px;
+  height: 366px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--space-600);
+  gap: var(--space-600);
+  min-width: 320px;
+  color: var(--text-default-default);
+}
+.oip-1-1,
+.oip-1-icon {
+  position: absolute;
+  top: 49px;
+  left: 940px;
+  border-radius: var(--br-6xl);
+  width: 90px;
+  height: 146px;
+  object-fit: cover;
+}
+.oip-1-1 {
+  top: 327px;
+  left: 728px;
+  width: 200px;
+  height: 234px;
+}
+.an-initiative-by {
+  position: absolute;
+  top: 226px;
+  left: 48px;
+}
+.macbook-air-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-default-default);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--single-line-body-base-size);
+  color: var(--color-black);
+  font-family: var(--single-line-body-base);
+}

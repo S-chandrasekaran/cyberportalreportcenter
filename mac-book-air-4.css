@@ -1,0 +1,211 @@
+.ellipse-div,
+.macbook-air-4-child,
+.macbook-air-4-child1,
+.macbook-air-4-child2,
+.macbook-air-4-inner,
+.macbook-air-4-item {
+  position: absolute;
+  top: 653px;
+  left: 308px;
+  border-radius: 50%;
+  background-color: var(--background-default-default);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 15px;
+  height: 15px;
+}
+.ellipse-div,
+.macbook-air-4-child1,
+.macbook-air-4-child2,
+.macbook-air-4-inner,
+.macbook-air-4-item {
+  top: 338px;
+  background-color: var(--color-seagreen);
+}
+.ellipse-div,
+.macbook-air-4-child1,
+.macbook-air-4-child2,
+.macbook-air-4-inner {
+  top: 590px;
+  background-color: var(--background-default-default);
+}
+.ellipse-div,
+.macbook-air-4-child1,
+.macbook-air-4-child2 {
+  top: 527px;
+  background-color: var(--color-seagreen);
+}
+.macbook-air-4-child1,
+.macbook-air-4-child2 {
+  top: 464px;
+}
+.macbook-air-4-child2 {
+  top: 401px;
+}
+.registration-completed {
+  position: absolute;
+  top: 334px;
+  left: 356px;
+}
+.information-availed-successful {
+  position: absolute;
+  top: 650px;
+  left: 356px;
+}
+.fingerprints-sended-to,
+.information-gathered-in {
+  position: absolute;
+  top: 587px;
+  left: 356px;
+}
+.fingerprints-sended-to {
+  top: 523px;
+}
+.fingerprints-detected-succcess,
+.seeded-with-uidai {
+  position: absolute;
+  top: 460px;
+  left: 356px;
+}
+.seeded-with-uidai {
+  top: 397px;
+}
+.click-here-download {
+  position: absolute;
+  top: 688px;
+  left: 357px;
+  font-size: var(--font-size-xs);
+  text-decoration: underline;
+  color: #2411fb;
+}
+.tracking-complaint-status {
+  position: absolute;
+  top: 235px;
+  left: 508px;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+}
+.complaint-ref-number {
+  position: absolute;
+  top: 277px;
+  left: 557px;
+  font-size: var(--font-size-xs);
+  color: var(--text-default-secondary);
+}
+.bxsfile-icon {
+  position: absolute;
+  top: 313px;
+  left: 943px;
+  width: 217px;
+  height: 214px;
+  overflow: hidden;
+}
+.group-child14 {
+  left: 642px;
+  background-color: var(--color-seagreen);
+  width: 280px;
+}
+.group-child14,
+.group-child15,
+.group-child16,
+.group-child17,
+.group-child18 {
+  position: absolute;
+  top: 113px;
+  border-radius: var(--br-31xl);
+  height: 29px;
+}
+.group-child15 {
+  left: 933px;
+  background-color: var(--color-seagreen);
+  width: 280px;
+  cursor: pointer;
+}
+.group-child16,
+.group-child17,
+.group-child18 {
+  left: 8px;
+  background-color: var(--border-default-default);
+  width: 306px;
+}
+.group-child17,
+.group-child18 {
+  background-color: var(--color-seagreen);
+}
+.group-child18 {
+  left: 325px;
+  cursor: pointer;
+}
+.cyber-report-portal3 {
+  position: absolute;
+  top: 21px;
+  left: 55px;
+  font-size: var(--font-size-21xl);
+  font-weight: 300;
+  color: var(--color-seagreen);
+  cursor: pointer;
+}
+.register-a-complaint1 {
+  position: absolute;
+  top: 115px;
+  left: 62px;
+  cursor: pointer;
+}
+.emergency-help1 {
+  position: absolute;
+  top: 115px;
+  left: 704px;
+}
+.about-scheme1,
+.track-complaint-status1 {
+  position: absolute;
+  top: 115px;
+  left: 1003px;
+}
+.track-complaint-status1 {
+  left: 370px;
+}
+.oip-1-12,
+.oip-1-icon2,
+.oip-2-12 {
+  position: absolute;
+  top: 0;
+  left: 1037px;
+  border-radius: var(--br-6xl);
+  width: 147px;
+  height: 76px;
+  object-fit: cover;
+}
+.oip-1-12,
+.oip-1-icon2 {
+  top: 1px;
+  left: 885px;
+  width: 96px;
+  height: 89px;
+}
+.oip-1-icon2 {
+  top: 15px;
+  left: 0;
+  width: 43px;
+  height: 61px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 23px;
+  left: 49px;
+  width: 1213px;
+  height: 142px;
+  font-size: var(--font-size-xl);
+  color: var(--background-default-default);
+}
+.macbook-air-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-default-default);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--single-line-body-base);
+}
